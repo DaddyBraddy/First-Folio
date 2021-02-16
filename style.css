@@ -1,0 +1,385 @@
+html,body{
+    scroll-behavior:smooth;
+}
+#con1{
+    background-color:#1B1B1B;
+    height: 642px;
+    width: 100%;
+    
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.col-md-4{
+    background-color: #222222;
+    height: 642px;
+    position: absolute;
+    width: 50%;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    
+}
+.img1{
+   height: 210px;
+   position: relative;
+   display: inline-block;
+   top: 200px;
+   right: -150px;
+   -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.p2{
+font-size: 15px;
+display: inline;
+font-weight: 500;
+font-family: 'IBM Plex Sans', sans-serif;
+color: rgba(255, 255, 255, 0.397);
+right: -850px;
+position: fixed;
+float: fixed;
+text-decoration: initial;
+font-style: normal;
+top: 550px;
+
+
+-webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.p3{
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.466);
+    position: relative;
+    top: 350px;
+    left: 20px;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+li {
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.397);
+    position: relative;
+    left: 1100px;
+    padding-right: 0px;
+    text-decoration: initial;
+    font-style: normal;
+    top: -220px;
+    list-style: none;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.li1{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.753);
+    position: relative;
+    left: 60px;
+    font-style: normal;
+    top: -300px;
+    list-style: outside;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+pre{
+    font-size: 25px;;
+    font-weight: 400;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.712);
+    position: relative;
+    float: right;
+    right: -700px;
+    text-decoration: initial;
+    font-style: normal;
+    top: -180px;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.p1{
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: rgba(255, 255, 255, 0.589);
+    position: relative;
+    float: right;
+    right: -800px;
+    padding-right: 0px;
+    text-decoration: initial;
+    font-style: normal;
+    top: -225px;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+#con2{
+    height: 900px;
+    width: 100%;
+    background-color: #222222;
+    position: relative;
+    top: -4px;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    
+    
+   
+}
+.img2{
+    width: 140px;
+    height: 5px;
+    position: relative;
+    top: 110px;
+    right: -100px;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.heading2{
+    font-size: 120px;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    color: rgba(255, 255, 255, 0.678);
+    position: relative;
+    right: -150px;
+    top: 150px;
+    z-index: 1;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+.heading3{
+    font-size: 120px;
+    display:inline-block;
+    font-family: 'Raleway', sans-serif;
+    color: rgba(255, 255, 255, 0.712);
+    position: relative;
+    left:90px;
+    padding-right: 0;
+    top: -60px;
+    z-index: 1;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    
+}
+.img3{
+    background-color: black;
+    border: solid #1B1B1B;
+   transform: scaleX(-1);
+   position: relative;
+   top: 100px;
+   -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+ 
+}
+.about{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.877);
+    position: relative;
+    right: -200px;
+    top: -200px;
+    display: inline-block;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+#con3{
+    height: 900px;
+    width: 100%;
+    background-color: #222222;
+    position: relative;
+    top: -5px;
+    overflow: initial;
+    -webkit-animation-name: slideInRight;
+    animation-name: slideInRight;
+    -webkit-animation-duration: 2s;
+    animation-duration: 3s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    
+}
+.img4{
+    position: relative;
+    top:140px;
+    height: 200px;
+    right: -200px;
+    border-radius: 10px;
+    border: solid rgba(0, 0, 0, 0.349);
+    
+}
+.head{
+    font-size: 30px;
+    display:inline-block;
+    font-family: 'Raleway', sans-serif;
+    color: rgba(255, 255, 255, 0.712);
+    position: relative;
+    left: -200px;
+    padding-right: 0;
+    top: 280px;
+    z-index: 1;
+}
+.line2{
+    width: 80px;
+    position: relative;
+    right: -400px;
+    top: 275px;
+}
+.heading6{
+    font-size: 120px;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    color: rgba(255, 255, 255, 0.678);
+    position: relative;
+    right: -70px;
+    top: 70px;
+    z-index: 1;}
+.head1{
+    font-size: 30px;
+    display:inline-block;
+    font-family: 'Raleway', sans-serif;
+    color: rgba(255, 255, 255, 0.712);
+    position: relative;
+    left: 400px;
+    padding-right: 0;
+    top: 400px;
+    z-index: 1;
+    
+}
+.line3{
+    width: 80px;
+    position: relative;
+    right: 30px;
+    top:400px;
+}
+.img6{
+    position: relative;
+    top:400px;
+    height: 200px;
+    right: -400px;
+    border-radius: 10px;
+    border: solid rgba(0, 0, 0, 0.349);
+}
+#con4{
+    height: 600px;
+    width: 100%;
+    background-color:#161616 ;
+    position: relative;
+    top: -6px;   
+}
+.p7{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.712);
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    top: 170px;
+    right: -200px;
+    display:inline-block;
+}
+.head4{
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.712);
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    top: 400px;
+    right: 250px;
+    text-decoration: underline;
+}
+.img7{
+    height: 100px;
+    position: relative;
+    float: right;
+    left: -80px;
+    top: 150px;
+}
+h2{
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.459);
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    top: 200px;
+    right: -200px;
+    display: inline-block;
+}
+@-webkit-keyframes slideInRight {
+    0% {
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    visibility: visible;
+    }
+    100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    }
+    }
+    @keyframes slideInRight {
+    0% {
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%);
+    visibility: visible;
+    }
+    100% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    }
+}
